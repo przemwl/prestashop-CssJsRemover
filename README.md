@@ -26,7 +26,7 @@ settings.xml
         &lt;path&gt; /themes/your_theme_name/css/modules/blocktopmenu/css/superfish-modified.css  &lt;/path&gt; <br>
     &lt;/cssFiles&gt; <br>
     &lt;jsFiles&gt; <br>
-	&lt;path&gt; /themes/your_theme_name/js_to_remove.js  &lt;/path&gt; <br><br>
+	&lt;path&gt; /themes/your_theme_name/js_to_remove.js  &lt;/path&gt; <br>
     &lt;/jsFiles&gt;<br>
 &lt;/settings&gt;<br>
 
