@@ -14,8 +14,6 @@ Instead of <cssFiles> and <jsFiles> node, <path> node is unlimited.
 
 Standard xml file look: 
 
-<pre>
-
 settings.xml >
 ----------------------------------------------------------------------
 <?xml version="1.0" encoding="UTF-8"?>
@@ -30,5 +28,3 @@ settings.xml >
 	<path> /themes/your_theme_name/js_to_remo.js </path>        
     </jsFiles>
 </settings>
-
-</pre>
