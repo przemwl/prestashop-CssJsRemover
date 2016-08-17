@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>cssjsremover</name>
+	<displayName><![CDATA[CSS/JS Remover]]></displayName>
+	<version><![CDATA[1.0]]></version>
+	<description><![CDATA[Remove unnecesary css/js files from header]]></description>
+	<author><![CDATA[Przemysław Wleklik | PodwysockiDESIGN]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

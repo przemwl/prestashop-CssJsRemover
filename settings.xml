@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings>
+    <cssFiles>
+        <path>  /themes/blebox/css/global.css </path>
+        <path> /themes/blebox/css/modules/blocktopmenu/css/blocktopmenu.css </path>
+        <path> /themes/blebox/css/modules/blocktopmenu/css/superfish-modified.css </path>
+    </cssFiles>
+    <jsFiles>
+        
+    </jsFiles>
+</settings>
