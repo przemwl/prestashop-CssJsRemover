@@ -16,19 +16,18 @@ Standard xml file look:
 
 <myxml>
 
-settings.xml >
+settings.xml 
 ----------------------------------------------------------------------
-<?xml version="1.0" encoding="UTF-8"?>
 
-<settings>
-    <cssFiles>
-        <path>  /themes/your_theme_name/css/global.css </path>
-        <path> /themes/your_theme_name/css/modules/blocktopmenu/css/blocktopmenu.css </path>
-        <path> /themes/your_theme_name/css/modules/blocktopmenu/css/superfish-modified.css </path>
-    </cssFiles>
-    <jsFiles>
-	<path> /themes/your_theme_name/js_to_remo.js </path>        
-    </jsFiles>
-</settings>
+&lt;settings&gt; <br>
+    &lt;cssFiles&gt;</span> <br>
+        &lt;path&gt;  /themes/your_theme_name/css/global.css  &lt;/path&gt; <br>
+        &lt;path&gt; /themes/your_theme_name/css/modules/blocktopmenu/css/blocktopmenu.css  &lt;/path&gt; <br>
+        &lt;path&gt; /themes/your_theme_name/css/modules/blocktopmenu/css/superfish-modified.css  &lt;/path&gt; <br>
+    &lt;/cssFiles&gt; <br>
+    &lt;jsFiles&gt; <br>
+	&lt;path&gt; /themes/your_theme_name/js_to_remove.js  &lt;/path&gt; <br><br>
+    &lt;/jsFiles&gt;<br>
+&lt;/settings&gt;<br>
 
 </myxml>
