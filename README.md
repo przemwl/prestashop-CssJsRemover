@@ -14,7 +14,7 @@ Instead of <cssFiles> and <jsFiles> node, <path> node is unlimited.
 
 Standard xml file look: 
 
-<pre>
+<myxml>
 
 settings.xml >
 ----------------------------------------------------------------------
@@ -31,4 +31,4 @@ settings.xml >
     </jsFiles>
 </settings>
 
-</pre>
+</myxml>
